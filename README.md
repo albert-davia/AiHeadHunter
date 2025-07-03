@@ -46,4 +46,4 @@ You will interact with the recruiter assistant, who will search for candidates a
 
 ## Notes
 - The `.env`, `.venv`, and other sensitive files are gitignored for security.
-- This project uses the [Davia](https://pypi.org/project/davia/) framework for the app interface.
+- This project uses the [Davia](https://davia.ai/) framework for the app interface.
